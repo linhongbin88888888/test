@@ -1,1 +1,1 @@
-tekt1
+print("hello world")
